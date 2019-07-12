@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.13.2",
+    "babel-loader": "8.0.4",
     "js-yaml": "^3.13.1",
     "react": "^16.7.0",
     "react-build": "^1.0.8",
@@ -37,8 +38,7 @@
     "lodash": "^4.17.14",
     "lodash.template": "^4.5.0",
     "minimatch": "^3.0.4",
-    "open": "^6.4.0",
-    "webpack-dev-server": "^3.7.2"
+    "open": "^6.4.0"
   },
   "homepage": "https://nuseehr.github.io/react-web-app"
 }
